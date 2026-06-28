@@ -1,2 +1,2 @@
-This repository contains TalTech data mining course project and weekly exercises in Python.
+This repository contains TalTech Data Mining course project and weekly exercises in Python.
 
