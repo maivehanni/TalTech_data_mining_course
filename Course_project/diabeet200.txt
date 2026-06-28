@@ -1,0 +1,7 @@
+Tegemist on diabeedi raskuse ennustamisega terviseandmete alusel. 
+Ennustatavaks veeruks on esimene veerg (haiguse kulg), mis on täisarv vahemikus 0..400.
+
+
+
+
+
